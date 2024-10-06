@@ -1,0 +1,192 @@
+1 -CHANGING LEARNING RATES
+
+################# Activation Funtion = "Sigmoid" Optimizer = "SGD" #####################################################################
+
+CRITICAL:root:Experiment Number #1
+ Activation Function : sigmoid,
+ Optimizer : SGD,
+ Learning Rate : 0.0005,
+ Momentum : 0.9,
+ Epochs = 50,
+ Batch Size : 32,
+ Gamma : 1.5,
+ Alpha : 0.35,
+ Accuracy = 65.5844,
+ Precision = 0.5116279069767442,
+ Recall = 0.8,
+ F1_Score = 0.624113475177305 
+
+
+CRITICAL:root:Experiment Number #2
+ Activation Function : sigmoid,
+ Optimizer : SGD,
+ Learning Rate : 0.001,
+ Momentum : 0.9,
+ Epochs = 50,
+ Batch Size : 32,
+ Gamma : 1.5,
+ Alpha : 0.35,
+ Accuracy = 65.5844,
+ Precision = 51.041667,
+ Recall = 89.090909,
+ F1_Score = 64.900662 
+
+
+CRITICAL:root:Experiment Number #3
+ Activation Function : sigmoid,
+ Optimizer : SGD,
+ Learning Rate : 0.01,
+ Momentum : 0.9,
+ Epochs = 50,
+ Batch Size : 32,
+ Gamma : 1.5,
+ Alpha : 0.35,
+ Accuracy = 43.5065,
+ Precision = 38.732394,
+ Recall = 100.000000,
+ F1_Score = 55.837563 
+
+
+CRITICAL:root:Experiment Number #4
+ Activation Function : sigmoid,
+ Optimizer : SGD,
+ Learning Rate : 0.1,
+ Momentum : 0.9,
+ Epochs = 50,
+ Batch Size : 32,
+ Gamma : 1.5,
+ Alpha : 0.35,
+ Accuracy = 35.7143,
+ Precision = 35.714286,
+ Recall = 100.000000,
+ F1_Score = 52.631579 
+
+################# Activation Funtion = "Sigmoid" Optimizer = "ADAM" #####################################################################
+
+
+CRITICAL:root:Experiment Number #1
+ Activation Function : sigmoid,
+ Optimizer : ADAM,
+ Learning Rate : 0.0005,
+ Momentum : 0.9,
+ Epochs = 50,
+ Batch Size : 32,
+ Gamma : 1.5,
+ Alpha : 0.35,
+ Accuracy = 58.4416,
+ Precision = 46.017699,
+ Recall = 94.545455,
+ F1_Score = 61.904762 
+
+
+CRITICAL:root:Experiment Number #2
+ Activation Function : sigmoid,
+ Optimizer : ADAM,
+ Learning Rate : 0.001,
+ Momentum : 0.9,
+ Epochs = 50,
+ Batch Size : 32,
+ Gamma : 1.5,
+ Alpha : 0.35,
+ Accuracy = 58.4416,
+ Precision = 46.017699,
+ Recall = 94.545455,
+ F1_Score = 61.904762 
+
+CRITICAL:root:Experiment Number #3
+ Activation Function : sigmoid,
+ Optimizer : SGD,
+ Learning Rate : 0.001,
+ Momentum : 0.9,
+ Epochs = 30,
+ Batch Size : 32,
+ Gamma : 1.5,
+ Alpha : 0.35,
+ Accuracy = 37.0130,
+ Precision = 36.184211,
+ Recall = 100.000000,
+ F1_Score = 53.140097
+
+################# Activation Funtion = "Sigmoid" Optimizer = "SGD" #####################################################################
+
+
+CRITICAL:root:Experiment Number #1
+ Activation Function : sigmoid,
+ Optimizer : SGD,
+ Learning Rate : 0.001,
+ Momentum : 0.9,
+ Epochs = 100,
+ Batch Size : 25,
+ Gamma : 1.5,
+ Alpha : 0.35,
+ Accuracy = 61.0390,
+ Precision = 47.706422,
+ Recall = 94.545455,
+ F1_Score = 63.414634 
+
+
+CRITICAL:root:Experiment Number #2
+ Activation Function : sigmoid,
+ Optimizer : SGD,
+ Learning Rate : 0.001,
+ Momentum : 0.9,
+ Epochs = 50,
+ Batch Size : 25,
+ Gamma : 1.5,
+ Alpha : 0.35,
+ Accuracy = 65.5844,
+ Precision = 51.020408,
+ Recall = 90.909091,
+ F1_Score = 65.359477 
+
+
+CRITICAL:root:Experiment Number #3
+ Activation Function : sigmoid,
+ Optimizer : SGD,
+ Learning Rate : 0.001,
+ Momentum : 0.9,
+ Epochs = 50,
+ Batch Size : 40,
+ Gamma : 1.5,
+ Alpha : 0.35,
+ Accuracy = 64.9351,
+ Precision = 50.537634,
+ Recall = 85.454545,
+ F1_Score = 63.513514 
+
+
+CRITICAL:root:Experiment Number #4
+ Activation Function : sigmoid,
+ Optimizer : SGD,
+ Learning Rate : 0.001,
+ Momentum : 0.9,
+ Epochs = 30,
+ Batch Size : 32,
+ Gamma : 1.5,
+ Alpha : 0.35,
+ Accuracy = 65.5844,
+ Precision = 51.111111,
+ Recall = 83.636364,
+ F1_Score = 63.448276 
+
+
+
+ERROR:ipykernel.comm:No such comm target registered: jupyter.widget.control
+WARNING:Comm:No such comm: 7e87d787-9b1f-49d4-8099-7da2ca89a546
+ERROR:ipykernel.comm:No such comm target registered: jupyter.widget.control
+WARNING:Comm:No such comm: 293902cc-606e-4896-bb97-53d9a85e5911
+CRITICAL:root:Experiment Number #1
+ Activation Function : sigmoid,
+ Optimizer : SGD,
+ Learning Rate : 0.001,
+ Momentum : 0.9,
+ Epochs = 50,
+ Batch Size : 32,
+ Gamma : 1.5,
+ Alpha : 0.35,
+ Accuracy = 65.5844,
+ Precision = 51.041667,
+ Recall = 89.090909,
+ F1_Score = 64.900662 
+
+
