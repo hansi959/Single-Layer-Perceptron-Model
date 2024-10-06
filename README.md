@@ -15,7 +15,7 @@ The Diabetes Dataset consists of 768 records of patients, with 8 key features us
 7. DiabetesPedigreeFunction: A function which scores likelihood of diabetes based on family history
 8. Age: Age in years
 
-The target variable (`Outcome`) indicates whether the patient has diabetes (`1`) or not (`0`).
+The target variable (outcome) indicates whether the patient has diabetes or not.
 
 Single-Layer Perceptron (SLP) Model
 
